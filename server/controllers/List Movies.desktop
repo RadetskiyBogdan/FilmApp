@@ -1,6 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=Ссылка на List Movies
-Type=Link
-URL=http://localhost:8000/movies/list
-Icon=text-html
